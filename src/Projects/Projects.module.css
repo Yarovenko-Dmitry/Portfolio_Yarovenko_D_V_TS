@@ -1,0 +1,52 @@
+.projectsBlock {
+  height: 100vh;
+  background-color: #eedda4;
+}
+
+.projectsConteiner {
+  /*flex-direction: column;*/
+  /*justify-content: space-between;*/
+  /*align-items: center;*/
+  border: solid 1px red;
+}
+.title {
+  margin: 0 auto;
+  /*width: 100%;*/
+}
+
+.projects {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  border: solid 1px #002fff;
+}
+
+.singleProject {
+  width: 35%;
+  min-width: 300px;
+  border: solid 1px #b300ff;
+}
+
+.projectDisplay {
+  height: calc(100% - 50px - 150px);
+  background: #65d265;
+}
+
+.btnSeeMore{
+  margin: 38%;
+}
+
+.projectDescription {
+  background: #65d2c0;
+}
+
+.projectTitle {
+  height: 50px;
+  border: solid 1px #003cff;
+}
+
+.projectBrief {
+  height: 150px;
+  border: solid 1px #ff0900;
+}

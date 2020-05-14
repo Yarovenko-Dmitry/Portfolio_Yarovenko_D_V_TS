@@ -1,0 +1,20 @@
+.mainBlock {
+  height: calc(100vh - 80px);
+  background-color: #cfaaaa;
+}
+
+/*.mainConteiner {*/
+/*  width: 70%;*/
+/*  padding: 0 10%;*/
+/*}*/
+
+.greeting {
+  width: 400px;
+  background-color: #aecfaa;
+}
+
+.photo {
+  width: 300px;
+  height: 400px;
+  background-color: #aab1cf;
+}

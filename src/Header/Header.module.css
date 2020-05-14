@@ -1,0 +1,11 @@
+.headerBlock {
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #80b1ea;
+}
+
+.headerConteiner {
+  justify-content: flex-end;
+}

@@ -1,0 +1,17 @@
+.sloganBlock {
+  height: 200px;
+  background-color: #bdeea4;
+}
+.skillsConteiner {
+  flex-direction: column;
+}
+
+.title {
+  border: solid 1px;
+  background-color: #eee9a4;
+}
+
+.sloganText {
+   border: solid 1px;
+   background-color: #eea4a4;
+ }
