@@ -8,8 +8,8 @@ const Main = () => {
       <div className={`${stylesConteiner.conteiner} ${styles.mainConteiner}`}>
         <div className={styles.greeting}>
           <span className={styles.greetingHi}> Hi There !!!</span>
-          <h1 className={styles.greetingName}>I'm Yerovenko Dmitry.</h1>
-          <p className={styles.greetingPosition}>Frontend developer.</p>
+          <p className={styles.greetingName}>I'm Yerovenko Dmitry.</p>
+          <h1 className={styles.greetingPosition}>Frontend developer.</h1>
         </div>
         <div className={styles.photo}></div>
       </div>

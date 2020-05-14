@@ -1,10 +1,16 @@
 .headerBlock {
   display: flex;
-  align-items: center;
+  width: 100%;
+  justify-content: center;
   background-color: #80b1ea;
+  position: fixed;
 }
 
 .headerConteiner {
+  display: flex;
+  width: 80vw;
   min-height: 80px;
+  align-items: center;
   justify-content: flex-end;
+  border: solid 1px;
 }

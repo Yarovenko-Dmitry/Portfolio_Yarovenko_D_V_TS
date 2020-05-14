@@ -8,7 +8,7 @@ import styles from './Header.module.css';
 const Header = () => {
   return (
     <div className={styles.headerBlock}>
-      <div className={`${stylesConteiner.conteiner} ${styles.headerConteiner}`}>
+      <div className={`${styles.headerConteiner}`}>
         <NavMenu/>
       </div>
     </div>

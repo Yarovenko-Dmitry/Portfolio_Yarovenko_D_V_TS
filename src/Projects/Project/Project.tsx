@@ -9,8 +9,8 @@ export const Project = (props: any) => {
         <button className={styles.btnSeeMore}>see more</button>
       </div>
       <div className={styles.projectDescription}>
-        <div className={styles.projectTitle}>{props.projectTitle}</div>
-        <div className={styles.projectBrief}>{props.projectBrief}</div>
+        <h3 className={styles.projectTitle}>{props.projectTitle}</h3>
+        <p className={styles.projectBrief}>{props.projectBrief}</p>
       </div>
 
     </div>
