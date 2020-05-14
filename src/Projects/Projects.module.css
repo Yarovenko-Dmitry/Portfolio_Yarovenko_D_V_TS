@@ -4,8 +4,8 @@
 
 .projectsConteiner {
   flex-direction: column;
-  border: solid 1px red;
 }
+
 .title {
   margin: 0 auto;
   border: solid 1px #00ff0d;
@@ -17,32 +17,4 @@
   flex-wrap: wrap;
   width: 100%;
   border: solid 1px #002fff;
-}
-
-.singleProject {
-  width: 35%;
-  min-width: 300px;
-  border: solid 1px #b300ff;
-}
-
-.projectDisplay {
-  background: #65d265;
-}
-
-.btnSeeMore{
-  margin: 38%;
-}
-
-.projectDescription {
-  background: #65d2c0;
-}
-
-.projectTitle {
-  height: 50px;
-  border: solid 1px #003cff;
-}
-
-.projectBrief {
-  height: 150px;
-  border: solid 1px #ff0900;
 }

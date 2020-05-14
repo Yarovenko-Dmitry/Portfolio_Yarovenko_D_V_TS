@@ -15,7 +15,7 @@ const Footer = () => {
           <div className={styles.icon}>Telegram</div>
           <div className={styles.icon}>WhatsApps</div>
         </div>
-        <p className={styles.allRights}>All rights reserved</p>
+        <p className={styles.allRights}>&copy; All rights reserved</p>
       </div>
 
 

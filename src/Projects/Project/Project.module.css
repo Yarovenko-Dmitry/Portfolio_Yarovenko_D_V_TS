@@ -1,0 +1,28 @@
+
+.singleProject {
+  width: 35%;
+  min-width: 250px;
+  border: solid 1px #b300ff;
+}
+
+.projectDisplay {
+  background: #65d265;
+}
+
+.btnSeeMore{
+  margin: 38%;
+}
+
+.projectDescription {
+  background: #65d2c0;
+}
+
+.projectTitle {
+  height: 50px;
+  border: solid 1px #003cff;
+}
+
+.projectBrief {
+  height: 150px;
+  border: solid 1px #ff0900;
+}
