@@ -1,16 +1,27 @@
 .mainBlock {
-  height: calc(100vh - 80px);
+  /*min-height: 50vh;*/
   background-color: #cfaaaa;
 }
 
-/*.mainConteiner {*/
-/*  width: 70%;*/
-/*  padding: 0 10%;*/
-/*}*/
+.mainConteiner {
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 
 .greeting {
   width: 400px;
+  border: solid 1px #ff0000;
   background-color: #aecfaa;
+}
+
+.greetingHi {
+  border: solid 1px #008000;
+}
+.greetingName {
+  border: solid 1px #ffe200;
+}
+.greetingPosition {
+  border: solid 1px #000d80;
 }
 
 .photo {

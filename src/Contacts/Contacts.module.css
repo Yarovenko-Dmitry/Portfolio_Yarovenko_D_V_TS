@@ -1,24 +1,25 @@
 .contactsBlock {
-  height: 500px;
   background-color: #a4afee;
 }
 
 .skillsConteiner {
   display: flex;
   flex-direction: column;
-
+}
+.title {
+  border: solid 1px #ff0000;
 }
 
 .form {
   display: flex;
   flex-direction: column;
-
+  border: solid 1px;
 }
 
 .inputBlock {
   display: flex;
   flex-direction: column;
-
+  border: solid 3px #ffd700;
 }
 
 .input {
