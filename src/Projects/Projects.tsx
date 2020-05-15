@@ -14,10 +14,10 @@ const Projects = () => {
             // img={'add img as bg or or https://webref.ru/css/object-fit !!!!!!!!!!!!!!!!!!'}
                    projectTitle={'First title'}
                    projectBrief={'fish-text 1 lmnff sdflid dsf'}/>
-          {/*<Project*/}
-          {/*  // img={'add img as bg or https://webref.ru/css/object-fit !!!!!!!!!!!!!!!!!! '}*/}
-          {/*         projectTitle={'Second title'}*/}
-          {/*         projectBrief={'fish-text 2 dsf lmnff dsf sdflid '}/>*/}
+          <Project
+            // img={'add img as bg or https://webref.ru/css/object-fit !!!!!!!!!!!!!!!!!! '}
+                   projectTitle={'Second title'}
+                   projectBrief={'fish-text 2 dsf lmnff dsf sdflid '}/>
         </div>
       </div>
     </div>
