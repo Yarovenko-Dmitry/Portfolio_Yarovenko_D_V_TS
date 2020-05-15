@@ -1,4 +1,5 @@
 .projectsBlock {
+  display: flex;
   background-color: #eedda4;
 }
 

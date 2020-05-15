@@ -1,21 +1,30 @@
 
 .singleProject {
-  width: 35%;
-  min-width: 250px;
+  display: flex;
+  width: 350px;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #00ffa1;
   border: solid 1px #b300ff;
 }
 
 .projectDisplay {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
   background: #65d265;
 }
 
 .btnSeeMore{
-  margin: 38%;
+  /*margin: 38%;*/
 }
 
-.projectDescription {
-  background: #65d2c0;
-}
+/*.projectDescription {*/
+/*  background: #65d2c0;*/
+/*}*/
 
 .projectTitle {
   height: 50px;
